@@ -1,0 +1,12 @@
+syntax: glob
+.dep/*
+*.lst
+Session.vim
+*.o
+thermostat.eep
+thermostat.elf
+thermostat.hex
+thermostat.lss
+thermostat.lst
+thermostat.map
+thermostat.sym
